@@ -14,6 +14,10 @@
 		4D8998AF1E69953300E37E72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D8998AD1E69953300E37E72 /* LaunchScreen.storyboard */; };
 		4D8998BA1E69953300E37E72 /* MarioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8998B91E69953300E37E72 /* MarioTests.swift */; };
 		4D8998C51E69953300E37E72 /* MarioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D8998C41E69953300E37E72 /* MarioUITests.swift */; };
+		4D8998D41E69954200E37E72 /* Mario-Coin-psd64730.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8998D21E69954200E37E72 /* Mario-Coin-psd64730.png */; };
+		4D8998D51E69954200E37E72 /* Super_Mario_Bros_Vector.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8998D31E69954200E37E72 /* Super_Mario_Bros_Vector.png */; };
+		4D8998D71E69958700E37E72 /* 01.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8998D61E69958700E37E72 /* 01.png */; };
+		4D8998DF1E69ADDA00E37E72 /* sounds.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4D8998DE1E69ADDA00E37E72 /* sounds.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		4D8998C01E69953300E37E72 /* MarioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MarioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D8998C41E69953300E37E72 /* MarioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarioUITests.swift; sourceTree = "<group>"; };
 		4D8998C61E69953300E37E72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4D8998D21E69954200E37E72 /* Mario-Coin-psd64730.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Mario-Coin-psd64730.png"; sourceTree = "<group>"; };
+		4D8998D31E69954200E37E72 /* Super_Mario_Bros_Vector.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Super_Mario_Bros_Vector.png; sourceTree = "<group>"; };
+		4D8998D61E69958700E37E72 /* 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 01.png; sourceTree = "<group>"; };
+		4D8998DE1E69ADDA00E37E72 /* sounds.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sounds.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +111,10 @@
 				4D8998AB1E69953300E37E72 /* Assets.xcassets */,
 				4D8998AD1E69953300E37E72 /* LaunchScreen.storyboard */,
 				4D8998B01E69953300E37E72 /* Info.plist */,
+				4D8998D21E69954200E37E72 /* Mario-Coin-psd64730.png */,
+				4D8998D61E69958700E37E72 /* 01.png */,
+				4D8998DE1E69ADDA00E37E72 /* sounds.mp3 */,
+				4D8998D31E69954200E37E72 /* Super_Mario_Bros_Vector.png */,
 			);
 			path = Mario;
 			sourceTree = "<group>";
@@ -232,7 +244,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D8998D71E69958700E37E72 /* 01.png in Resources */,
+				4D8998D41E69954200E37E72 /* Mario-Coin-psd64730.png in Resources */,
+				4D8998D51E69954200E37E72 /* Super_Mario_Bros_Vector.png in Resources */,
 				4D8998AF1E69953300E37E72 /* LaunchScreen.storyboard in Resources */,
+				4D8998DF1E69ADDA00E37E72 /* sounds.mp3 in Resources */,
 				4D8998AC1E69953300E37E72 /* Assets.xcassets in Resources */,
 				4D8998AA1E69953300E37E72 /* Main.storyboard in Resources */,
 			);
